@@ -32,8 +32,19 @@ templates_path = ['_templates']
 # html_theme = 'sphinx_rtd_theme'
 # html_theme = 'nature'
 # html_theme = 'press'
-extensions.append("sphinx_wagtail_theme")
+extensions.append("sphinx_wagtail_theme")   # 将主题包含在要加载的扩展列表中, 也就是上面的 extensions 列表中
 html_theme = 'sphinx_wagtail_theme'
+
+# These are options specifically for the Wagtail Theme.
+html_theme_options = dict(
+    project_name = "Lumache_123",
+    logo = "https://www.sphinx-doc.org/en/master/_static/sphinx-logo.svg",
+    logo_alt = "Wagtail_123",
+    logo_height = 59,
+    logo_url = "/",
+    logo_width = 45,
+)
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
