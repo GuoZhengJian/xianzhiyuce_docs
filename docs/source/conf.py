@@ -39,11 +39,11 @@ import os
 # These are options specifically for the Wagtail Theme.
 html_theme_options = dict(
     project_name = "先智预测",
-    logo = r"{}\docs\img\test.svg".format(os.getcwd()),
-    logo_alt = r"{}/docs/img/test.svg".format(os.getcwd()),
+    logo = r"test.svg",
+    logo_alt = r"",
     logo_height = 59,
     logo_url = "/",
-    logo_width = 45,
+    # logo_width = 45,
 )
 
 
