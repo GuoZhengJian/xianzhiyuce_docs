@@ -37,7 +37,7 @@ html_theme = 'sphinx_wagtail_theme'
 
 
 # 设置静态文件路径
-html_static_path = ['_static']
+html_static_path = ['static']
 
 # These are options specifically for the Wagtail Theme.
 html_theme_options = dict(
