@@ -35,6 +35,7 @@ templates_path = ['_templates']
 extensions.append("sphinx_wagtail_theme")   # 将主题包含在要加载的扩展列表中, 也就是上面的 extensions 列表中
 html_theme = 'sphinx_wagtail_theme'
 
+
 # 设置静态文件路径
 html_static_path = ['_static']
 
@@ -43,7 +44,7 @@ html_theme_options = dict(
     project_name = "先智预测",
     # logo = "img/wagtail-logo-circle.svg",
     # logo_alt = "Wagtail",
-    logo = '_static/test.svg',  # 注意路径
+    logo = 'test.svg',  # 注意路径
     logo_alt = '先智预测_logo',
     logo_height = 59,
     logo_url = "/",
