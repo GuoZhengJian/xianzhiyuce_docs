@@ -9,6 +9,8 @@ python:
   install:
     - requirements: docs/requirements.txt
     # Install our python package before building the docs
+    # 在构建文档之前安装我们的python包
+    # 现在，Read the Docs 将安装 Python 代码 在开始 Sphinx 构建之前，它将无缝完成。
     - method: pip
       path: .
 
