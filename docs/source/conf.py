@@ -51,8 +51,8 @@ if root_path not in sys.path: sys.path.append(root_path)
 # These are options specifically for the Wagtail Theme.
 html_theme_options = dict(
     project_name = "先智预测",
-    logo = r"{root_path}\docs\img\test.svg".format(root_path),
-    logo_alt = r"{root_path}/docs/img/test.svg".format(root_path),
+    logo = r"{}\docs\img\test.svg".format(root_path),
+    logo_alt = r"{}/docs/img/test.svg".format(root_path),
     logo_height = 59,
     logo_url = "/",
     logo_width = 45,
