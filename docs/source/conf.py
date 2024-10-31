@@ -38,7 +38,7 @@ html_theme = 'sphinx_wagtail_theme'
 # These are options specifically for the Wagtail Theme.
 html_theme_options = dict(
     project_name = "先智预测",
-    logo = "img/test.svg",
+    logo = "_static/test.svg",
     logo_alt = "先智预测_logo",
     logo_height = 59,
     logo_url = "/",
