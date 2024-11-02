@@ -285,7 +285,7 @@ a. 枚举列表1
 .. image:: ./_static/图标_6.png
   :width: 200px
 
-.. image:: ./_static/loading_5.gif
+.. image:: ./_static/loading_test.gif
   :width: 200px
 
 
