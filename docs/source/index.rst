@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+先智预测: 让 "预测" 引导您有序经营
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**先智预测** 是利用周期性因素、季节性趋势、天气特征、节日节气特征、自然灾害、商圈因素、市场因素、营销因素、政府政策等因素对经营过程中的影响, 使用多种机器学习算法对营业中的各项指标进行预测,
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+所以, 您无需预估各项经营指标, 只需要将指标的历史数据放到 **先智预测** 中进行预测, 即可获得未来 **15** 天的预测指标
 
-.. note::
+通过预测, 可以使您更科学的安排后续的经营计划, 例如: 人员排班, 进销存, 生产计划, 财务规划等
 
-   This project is under active development.
+这可以使您的各个经营环节更加紧密高效, 从而提高您的市场竞争力.
 
-Contents
+
+目录
 --------
 
 .. toctree::
 
-   usage
-   api
+   快速使用
+   数据安全
+   优惠策略

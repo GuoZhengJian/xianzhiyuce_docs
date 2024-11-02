@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '先智预测 - 使用文档'
+copyright = '2024, 先智预测'
+author = '先智预测'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0.1'
+version = '0.0.1'
 
 # -- General configuration
 
