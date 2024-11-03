@@ -44,7 +44,3 @@ html_theme_options = {
       ("官方网站", "https://www.xianzhiyuce.com/home/"),
   ]
 }
-
-latex_documents = [(
-    'index',
-)]
