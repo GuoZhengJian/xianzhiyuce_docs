@@ -35,3 +35,18 @@ html_theme = 'press'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+# 配置 press 主题
+# 更多配置请前往 https://schettino72.github.io/sphinx_press_site/configuration.html
+html_theme_options = {
+  "external_links": [
+      ("官方网站", "https://www.xianzhiyuce.com/home/"),
+  ]
+}
+
+
+html_static_path = ['_static']
+
+def setup(app):
+    app.add_css_file('custom.css')
