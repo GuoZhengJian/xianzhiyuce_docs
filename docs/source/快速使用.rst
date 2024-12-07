@@ -8,8 +8,12 @@
 
 `点击下载`_
 
-.. _点击下载: http://ramble.3vshej-2.cn
+.. _点击下载: http://guozhengjian.com/app_01/download_file/XianzhiYuceDesktop.zip/
 
+.. admonition:: 请注意:
+	:class: tip
+
+	当前软件处于公开测试阶段。大部分杀毒软件（如360、腾讯、火绒等）检测均正常，但部分杀毒软件（如 Microsoft Defender）可能会出现误报情况。开发团队正积极与 Microsoft Defender 沟通，努力解决这一问题。如果您对此有顾虑，建议等待后续版本更新。
 
 快速上手
 ----------

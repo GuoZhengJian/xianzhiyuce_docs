@@ -3,7 +3,7 @@
 
 许可证购买
 ------------
-当前许可证购买方式只能通过软件内购买, 您可以通过点击 `先智预测.exe <www.baidu.com>`_  来下载软件的安装程序. 
+当前许可证购买方式只能通过软件内购买, 您可以通过点击 `XianzhiYuceDesktop.zip <http://guozhengjian.com/app_01/download_file/XianzhiYuceDesktop.zip/>`_  来下载软件的安装程序. 
 
 当软件下载并安装成功后, 您可以点击软件左侧栏中 **许可证** 选项打开 **许可证管理界面** 来选购各类许可证购买方案
 
