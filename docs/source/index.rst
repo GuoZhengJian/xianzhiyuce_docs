@@ -17,9 +17,12 @@
    快速使用
    数据安全
    许可证购买与优惠
+   经营分析
 
 
 .. header:: index.rst
 .. include:: 快速使用.rst
 .. include:: 数据安全.rst
 .. include:: 许可证购买与优惠.rst
+.. include:: 经营分析.rst
+
