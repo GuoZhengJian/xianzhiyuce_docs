@@ -44,3 +44,6 @@ html_theme_options = {
       ("官方网站", "https://www.xianzhiyuce.com/home/"),
   ]
 }
+
+# 设置网页标签图标
+html_favicon = '_static/favicon.ico'
