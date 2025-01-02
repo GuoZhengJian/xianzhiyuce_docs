@@ -8,7 +8,7 @@
 
 `点击下载`_
 
-.. _点击下载: http://guozhengjian.com/app_01/download_file/XianzhiYuceDesktop.zip/
+.. _点击下载: https://guozhengjian.com/app_01/download_file/XianzhiYuceDesktop.zip/
 
 .. admonition:: 请注意:
 	:class: tip
